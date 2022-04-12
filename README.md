@@ -10,7 +10,7 @@ Move objects, in the PimCore tree, using drop-down lists
 ![image](https://user-images.githubusercontent.com/26277574/162991722-58a42978-a185-475a-83e4-9321d0b5f872.png)
 Control Panel
 
-![image](https://user-images.githubusercontent.com/26277574/162992489-63fa252c-68af-41d5-b220-bec52ce805ef.png)
+![image](https://user-images.githubusercontent.com/26277574/162993770-eedd471a-7edd-4a40-9131-b11df4b805f9.png)
 Open and move (1) object
 
 ![image](https://user-images.githubusercontent.com/26277574/162993376-efbeabed-4cf5-4605-b2de-96d24333245c.png)
