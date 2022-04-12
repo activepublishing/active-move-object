@@ -16,6 +16,10 @@ Open object and move it (1)
 ![image](https://user-images.githubusercontent.com/26277574/162994361-7dfa703d-44af-4279-afcb-e88dcb51971a.png)
 <br/>Select the first level after the root level (2)
 
+![image](https://user-images.githubusercontent.com/26277574/162995019-6dd0cc40-c5f7-4e43-a299-0f03b2f19cce.png)
+<br/>Select the next levels and so on before validate to move the object into the selected level. 
+No level limit
+
 # How to get the plugin
 To buy the solution, contact us by mail contact@active-publishing.fr or use form on our website.
 Coming soon: Direct purchase on our website
