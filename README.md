@@ -14,7 +14,7 @@ Control Panel
 Open object and move it (1) 
 
 ![image](https://user-images.githubusercontent.com/26277574/162994361-7dfa703d-44af-4279-afcb-e88dcb51971a.png)
-Select the first level after the root level (2)
+<br/>Select the first level after the root level (2)
 
 # How to get the plugin
 To buy the solution, contact us by mail contact@active-publishing.fr or use form on our website.
