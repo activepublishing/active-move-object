@@ -11,9 +11,9 @@ Move objects, in the PimCore tree, using drop-down lists
 Control Panel
 
 ![image](https://user-images.githubusercontent.com/26277574/162993770-eedd471a-7edd-4a40-9131-b11df4b805f9.png)
-Open and move (1) object
+Open object and move it (1) 
 
-![image](https://user-images.githubusercontent.com/26277574/162993376-efbeabed-4cf5-4605-b2de-96d24333245c.png)
+![image](https://user-images.githubusercontent.com/26277574/162994361-7dfa703d-44af-4279-afcb-e88dcb51971a.png)
 Select the first level after the root level (2)
 
 # How to get the plugin
