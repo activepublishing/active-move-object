@@ -1,5 +1,5 @@
 {
-    "name": "activepublishing/bundle-active-move-object",
+    "name": "activepublishing/active-move-object",
     "description" : "PimCore plugin to move objects through the data tree",
     "version": "1.0.1",
     "homepage": "https://activepublishing.fr",
